@@ -1,0 +1,13 @@
+langchain
+langchain-cli
+langchain_community
+langchain-google-genai
+langchain-pinecone
+cohere
+numpy
+pypdf
+python-dotenv
+streamlit
+fastapi
+uvicorn
+requests
