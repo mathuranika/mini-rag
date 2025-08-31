@@ -6,7 +6,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-BACKEND_API_URL = "http://127.0.0.1:8000"
+BACKEND_API_URL = "https://mini-rag-i173.onrender.com"
 
 st.set_page_config(page_title="Mini RAG App", page_icon="📄")
 
